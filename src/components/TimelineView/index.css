@@ -1,0 +1,30 @@
+.chrono-container {
+  width: 800px;
+  height: 600px;
+  padding: 20px;
+}
+
+.body-cart {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.heading {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+  text-align: center;
+}
+.span {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.para {
+  color: #171f46;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+}
